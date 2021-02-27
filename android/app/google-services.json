@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "233606808255",
+    "project_id": "flutter-quotebook-267a9",
+    "storage_bucket": "flutter-quotebook-267a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233606808255:android:1c7403adff2904c9713c0a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_quotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233606808255-8fpev4f2k3apffpf2uijr23lrtfutfi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmhEa9Zc20VARYSv2JJUTbH7170zgDaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233606808255-8fpev4f2k3apffpf2uijr23lrtfutfi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233606808255:android:428685354ef96623713c0a",
+        "android_client_info": {
+          "package_name": "sy.flutter_quotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233606808255-8fpev4f2k3apffpf2uijr23lrtfutfi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmhEa9Zc20VARYSv2JJUTbH7170zgDaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233606808255-8fpev4f2k3apffpf2uijr23lrtfutfi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
